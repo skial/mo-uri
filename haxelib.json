@@ -1,0 +1,15 @@
+{
+  "name": "mo-uri",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["uhu", "uhx", "mo", "lexer", "ast", "parser", "uri"],
+  "description": "A uri lexer and parser.",
+  "contributors": ["skial"],
+  "releasenote": "Initial Release",
+  "version": "0.0.1-alpha",
+  "url": "https://github.com/skial/mo-uri",
+  "dependencies": {
+	"mo": "",
+    "utest": ""
+  }
+}

@@ -1,0 +1,28 @@
+-cp src
+-cp tests
+
+-lib mo
+-lib utest
+
+-main Main
+--no-traces
+
+-dce full
+
+-D analyzer-optimize
+
+--each
+
+-neko bin/uri.n
+
+--next
+
+-js bin/uri.js
+
+--next
+
+-python bin/py/uri.py
+
+--next
+
+-cs bin/cs
