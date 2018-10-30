@@ -1,0 +1,5 @@
+-D mo=0.0.1-alpha
+# @install: lix --silent download "gh://github.com/skial/mo#88eecd9339079f72c26ce2040e7ddf3ea70d5240" into mo/0.0.1-alpha/github/88eecd9339079f72c26ce2040e7ddf3ea70d5240
+-lib hxparse
+-lib unifill
+-cp ${HAXE_LIBCACHE}/mo/0.0.1-alpha/github/88eecd9339079f72c26ce2040e7ddf3ea70d5240/src

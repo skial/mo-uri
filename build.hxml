@@ -22,7 +22,3 @@
 --next
 
 -python bin/py/uri.py
-
---next
-
--cs bin/cs
